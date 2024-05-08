@@ -20,6 +20,13 @@ https://udemy.com/course/nestjs-microservices-build-deploy-a-scaleable-backend
 >
 > By the end of this course, you will know how to build, deploy & test Nestjs Microservices so you can create any scaleable application that you can think of.
 
+## Notes
+
+Special notes about how this repo may differ from the course
+
+- Work prior to 2-11 (Validation & Logging) was not version controlled
+- I chose to run the dockerized version of mongo DB from the beginning. Following this documentation to get started [https://www.mongodb.com/docs/manual/tutorial/install-mongodb-community-with-docker]()
+
 ## Installation
 
 ```bash
